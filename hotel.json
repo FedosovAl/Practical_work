@@ -1,0 +1,314 @@
+{
+    "q": "prague",
+    "rid": "48ec82f3939c4f33a1a63447871b87cb",
+    "rc": "OK",
+    "sr": [
+        {
+            "@type": "gaiaRegionResult",
+            "index": "0",
+            "gaiaId": "2872",
+            "type": "CITY",
+            "regionNames": {
+                "fullName": "Prague, Czechia",
+                "shortName": "Prague",
+                "displayName": "Prague, Czechia",
+                "primaryDisplayName": "Prague",
+                "secondaryDisplayName": "Czechia",
+                "lastSearchName": "Prague"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "2872"
+            },
+            "coordinates": {
+                "lat": "50.08718",
+                "long": "14.42564"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Czechia",
+                    "isoCode2": "CZ",
+                    "isoCode3": "CZE"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "1",
+            "gaiaId": "6278809",
+            "type": "NEIGHBORHOOD",
+            "regionNames": {
+                "fullName": "Prague City Center, Prague, Czechia",
+                "shortName": "Prague City Center",
+                "displayName": "Prague City Center, Prague, Czechia",
+                "primaryDisplayName": "Prague City Center",
+                "secondaryDisplayName": "Prague, Czechia",
+                "lastSearchName": "Prague City Center"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "6278809"
+            },
+            "coordinates": {
+                "lat": "50.08668447680886",
+                "long": "14.41443709660794"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Czechia",
+                    "isoCode2": "CZ",
+                    "isoCode3": "CZE"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "2",
+            "gaiaId": "508612",
+            "type": "POI",
+            "regionNames": {
+                "fullName": "Old Town Square, Prague, Czechia",
+                "shortName": "Old Town Square",
+                "displayName": "Old Town Square, Prague, Czechia",
+                "primaryDisplayName": "Old Town Square",
+                "secondaryDisplayName": "Prague, Czechia",
+                "lastSearchName": "Old Town Square"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "508612"
+            },
+            "coordinates": {
+                "lat": "50.087538",
+                "long": "14.420704"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Czechia",
+                    "isoCode2": "CZ",
+                    "isoCode3": "CZE"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "3",
+            "gaiaId": "6051626",
+            "type": "NEIGHBORHOOD",
+            "regionNames": {
+                "fullName": "Smichov, Prague, Czechia",
+                "shortName": "Smichov",
+                "displayName": "Smichov, Prague, Czechia",
+                "primaryDisplayName": "Smichov",
+                "secondaryDisplayName": "Prague, Czechia",
+                "lastSearchName": "Smichov"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "6051626"
+            },
+            "coordinates": {
+                "lat": "50.07201",
+                "long": "14.404067"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Czechia",
+                    "isoCode2": "CZ",
+                    "isoCode3": "CZE"
+                }
+            }
+        },
+        {
+            "@type": "gaiaHotelResult",
+            "index": "4",
+            "hotelId": "15590550",
+            "type": "HOTEL",
+            "regionNames": {
+                "fullName": "Cosmopolitan Hotel Prague, Prague, Czechia",
+                "shortName": "Cosmopolitan Hotel Prague",
+                "displayName": "Cosmopolitan Hotel Prague, Prague, Czechia",
+                "primaryDisplayName": "Cosmopolitan Hotel Prague",
+                "secondaryDisplayName": "Prague, Czechia",
+                "lastSearchName": "Cosmopolitan Hotel Prague"
+            },
+            "essId": {
+                "sourceName": "LCM",
+                "sourceId": "15590550"
+            },
+            "coordinates": {
+                "lat": "50.09003",
+                "long": "14.43237"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "isoCode3": "CZE"
+                }
+            },
+            "cityId": "2872",
+            "hotelAddress": {
+                "street": "Zlatnicka 3",
+                "city": "Prague",
+                "province": ""
+            }
+        },
+        {
+            "@type": "gaiaHotelResult",
+            "index": "5",
+            "hotelId": "1145916",
+            "type": "HOTEL",
+            "regionNames": {
+                "fullName": "Radisson Blu Hotel, Prague, Prague, Czechia",
+                "shortName": "Radisson Blu Hotel, Prague",
+                "displayName": "Radisson Blu Hotel, Prague, Prague, Czechia",
+                "primaryDisplayName": "Radisson Blu Hotel, Prague",
+                "secondaryDisplayName": "Prague, Czechia",
+                "lastSearchName": "Radisson Blu Hotel, Prague"
+            },
+            "essId": {
+                "sourceName": "LCM",
+                "sourceId": "1145916"
+            },
+            "coordinates": {
+                "lat": "50.077415",
+                "long": "14.422473"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "isoCode3": "CZE"
+                }
+            },
+            "cityId": "2872",
+            "hotelAddress": {
+                "street": "Zitna 8",
+                "city": "Prague",
+                "province": "Prague"
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "6",
+            "gaiaId": "6242738",
+            "type": "NEIGHBORHOOD",
+            "regionNames": {
+                "fullName": "Prague 2, Prague, Czechia",
+                "shortName": "Prague 2",
+                "displayName": "Prague 2, Prague, Czechia",
+                "primaryDisplayName": "Prague 2",
+                "secondaryDisplayName": "Prague, Czechia",
+                "lastSearchName": "Prague 2"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "6242738"
+            },
+            "coordinates": {
+                "lat": "50.075069",
+                "long": "14.435078"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Czechia",
+                    "isoCode2": "CZ",
+                    "isoCode3": "CZE"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "7",
+            "gaiaId": "4674128",
+            "type": "AIRPORT",
+            "regionNames": {
+                "fullName": "Prague, Czechia (PRG-Vaclav Havel)",
+                "shortName": "Prague (PRG-Vaclav Havel)",
+                "displayName": "Prague (PRG - Vaclav Havel), Czechia",
+                "primaryDisplayName": "Prague (PRG - Vaclav Havel)",
+                "secondaryDisplayName": "Czechia",
+                "lastSearchName": "Prague (PRG - Vaclav Havel)"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "4674128"
+            },
+            "coordinates": {
+                "lat": "50.10769",
+                "long": "14.26755"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Czechia",
+                    "isoCode2": "CZ",
+                    "isoCode3": "CZE"
+                }
+            },
+            "isMinorAirport": "false"
+        },
+        {
+            "@type": "gaiaHotelResult",
+            "index": "8",
+            "hotelId": "282738",
+            "type": "HOTEL",
+            "regionNames": {
+                "fullName": "Prague Marriott Hotel, Prague, Czechia",
+                "shortName": "Prague Marriott Hotel",
+                "displayName": "Prague Marriott Hotel, Prague, Czechia",
+                "primaryDisplayName": "Prague Marriott Hotel",
+                "secondaryDisplayName": "Prague, Czechia",
+                "lastSearchName": "Prague Marriott Hotel"
+            },
+            "essId": {
+                "sourceName": "LCM",
+                "sourceId": "282738"
+            },
+            "coordinates": {
+                "lat": "50.088294",
+                "long": "14.431192"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "isoCode3": "CZE"
+                }
+            },
+            "cityId": "2872",
+            "hotelAddress": {
+                "street": "V Celnici 8",
+                "city": "Prague",
+                "province": ""
+            }
+        },
+        {
+            "@type": "gaiaHotelResult",
+            "index": "9",
+            "hotelId": "14886",
+            "type": "HOTEL",
+            "regionNames": {
+                "fullName": "Hotel Maximilian, Prague, Czechia",
+                "shortName": "Hotel Maximilian",
+                "displayName": "Hotel Maximilian, Prague, Czechia",
+                "primaryDisplayName": "Hotel Maximilian",
+                "secondaryDisplayName": "Prague, Czechia",
+                "lastSearchName": "Hotel Maximilian"
+            },
+            "essId": {
+                "sourceName": "LCM",
+                "sourceId": "14886"
+            },
+            "coordinates": {
+                "lat": "50.091058",
+                "long": "14.42478"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "isoCode3": "CZE"
+                }
+            },
+            "cityId": "2872",
+            "hotelAddress": {
+                "street": "Hastalska 14",
+                "city": "Prague",
+                "province": ""
+            }
+        }
+    ]
+}
